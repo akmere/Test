@@ -1,0 +1,124 @@
+Search 1: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:23/02/2021 to 23/03/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+2021-03-26 15:48:46.662  ERROR        [APOBANK\raf78905]Last URI Touched: 668759425, Last URI Processed Successfully: 668759425
+2021-03-26 15:48:46.662  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 15:48:47.194  ERROR        [APOBANK\raf78905]1 or more records could not be displayed
+
+Search 2: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:23/01/2021 to 23/03/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+2021-03-26 15:16:35.016  ERROR        [APOBANK\raf78905]Last URI Touched: 668759425, Last URI Processed Successfully: 668759425
+2021-03-26 15:16:35.016  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\ApoBank\Aktensicht\AktensichtGit\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 15:16:36.000  ERROR        [APOBANK\raf78905]1 or more records could not be displayed
+
+Search 3: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:23/01/2021 to 23/02/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+2021-03-26 15:50:20.478  ERROR        [APOBANK\raf78905]Last URI Touched: 663025062, Last URI Processed Successfully: 663025062
+2021-03-26 15:50:20.478  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 15:50:20.774  ERROR        [APOBANK\raf78905]1 or more records could not be displayed
+
+Search 4: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:23/01/2021 to 8/02/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+NO PROBLEM
+
+Search 5: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:10/02/2021 to 23/02/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+NO PROBLEM
+
+Search 6: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:28/02/2021 to 23/03/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+2021-03-26 16:14:43.986  ERROR        [APOBANK\raf78905]Last URI Touched: 668759425, Last URI Processed Successfully: 668759425
+2021-03-26 16:14:43.986  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 16:14:44.236  ERROR        [APOBANK\raf78905]1 or more records could not be displayed
+
+Search 7: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:to 23/03/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+2021-03-26 16:16:20.753  ERROR        [APOBANK\raf78905]Last URI Touched: 668759425, Last URI Processed Successfully: 668759425
+2021-03-26 16:16:20.753  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 16:16:21.097  ERROR        [APOBANK\raf78905]Last URI Touched: 663025062, Last URI Processed Successfully: 663025062
+2021-03-26 16:16:21.097  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 16:16:24.019  ERROR        [APOBANK\raf78905]2 or more records could not be displayed
+
+Search 8: not KzUnsichtbarJUnsichtbar:J and Ablagedatum:23/01/2021 to 23/03/2021 and ( Kundennummer:6880371 or BusinessPartnerNummer=6880371 )
+2021-03-26 16:21:29.618  ERROR        [APOBANK\raf78905]Last URI Touched: 668759425, Last URI Processed Successfully: 668759425
+2021-03-26 16:21:29.618  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 16:21:29.962  ERROR        [APOBANK\raf78905]Last URI Touched: 663025062, Last URI Processed Successfully: 663025062
+2021-03-26 16:21:29.962  ERROR        [APOBANK\raf78905]Going for each recordSearch record EXCEPTION - 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at apoBank.Aktensicht.buttonClick(Object sender, EventArgs e) in C:\Projekty\apoBank\Aktensicht\Aktensicht\Aktensicht.aspx.cs:line 1505
+2021-03-26 16:21:30.290  ERROR        [APOBANK\raf78905]2 or more records could not be displayed
+
+
+
+Ablagedatum	Unique Identifier	SourceSystem	Erstellt von
+(...)
+18/03/2021	668759429	Scan Provider	s-cm-prod
+18/03/2021	668759425	Scan Provider	s-cm-prod
+18/03/2021	668759422	Scan Provider	s-cm-prod
+(...)
+9/2/2021	663021911	Avaloq	s-cm-prod
+9/2/2021	663025062		Schulte, Verena
+9/2/2021	663042532	Avaloq	s-cm-prod
+9/2/2021	663034910	Avaloq	s-cm-prod
+(...)
+
+Ablagedatum	Unique Identifier	SourceSystem	Erstellt von
+23/03/2021	669158075				Vandieken, Anita
+22/03/2021	669094155				Schulte, Verena
+22/03/2021	669120601				Vandieken, Anita
+22/03/2021	669094154				Schulte, Verena
+18/03/2021	668759421		Scan Provider	s-cm-prod
+18/03/2021	668759423		Scan Provider	s-cm-prod
+18/03/2021	668814872		Scan Provider	s-cm-prod
+18/03/2021	668759426		Scan Provider	s-cm-prod
+18/03/2021	668759427		Scan Provider	s-cm-prod
+18/03/2021	668759429		Scan Provider	s-cm-prod
+18/03/2021	668759425		Scan Provider	s-cm-prod
+18/03/2021	668759422		Scan Provider	s-cm-prod
+15/03/2021	668171684		Avaloq		s-cm-prod
+12/3/2021	667871188				Steins, Saskia
+11/3/2021	667859379		Avaloq		s-cm-prod
+11/3/2021	667859381		Avaloq		s-cm-prod
+11/3/2021	667859382		Avaloq		s-cm-prod
+11/3/2021	667869591		Avaloq		s-cm-prod
+11/3/2021	667872700		Avaloq		s-cm-prod
+11/3/2021	667869587		Avaloq		s-cm-prod
+11/3/2021	667869589		Avaloq		s-cm-prod
+11/3/2021	667859383		Avaloq		s-cm-prod
+11/3/2021	667859380		Avaloq		s-cm-prod
+11/3/2021	667869590		Avaloq		s-cm-prod
+11/3/2021	667866790		Avaloq		s-cm-prod
+11/3/2021	667869592		Avaloq		s-cm-prod
+27/02/2021	665918926		Avaloq_batch	s-cm-prod
+27/02/2021	665984471		Avaloq_batch	s-cm-prod
+24/02/2021	664717312		Scan Provider	s-cm-prod
+12/2/2021	663261247				Schulte, Verena
+12/2/2021	663261248				Schulte, Verena
+9/2/2021	663025063				Schulte, Verena
+9/2/2021	663042534		Avaloq		s-cm-prod
+9/2/2021	663034911		Avaloq		s-cm-prod
+9/2/2021	663034913		Avaloq		s-cm-prod
+9/2/2021	663021911		Avaloq		s-cm-prod
+9/2/2021	663025062				Schulte, Verena
+9/2/2021	663042532		Avaloq		s-cm-prod
+9/2/2021	663034910		Avaloq		s-cm-prod
+8/2/2021	662866702				Singbeil, Maximilian
+8/2/2021	662880606				Schulte, Verena
+8/2/2021	662880610				Schulte, Verena
+8/2/2021	662880601				Schulte, Verena
+8/2/2021	662866703				Singbeil, Maximilian
+8/2/2021	662880607				Schulte, Verena
+8/2/2021	662866699				Singbeil, Maximilian
+8/2/2021	662880600				Schulte, Verena
+8/2/2021	662818291				Singbeil, Maximilian
+8/2/2021	662880605				Schulte, Verena
+30/01/2021	661303368		Avaloq_batch	s-cm-prod
+30/01/2021	661797340		Avaloq_batch	s-cm-prod
+30/01/2021	661287321		Avaloq_batch	s-cm-prod
+
